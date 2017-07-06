@@ -11,7 +11,7 @@ lo-fly is a open-source social media web-application whose main purpose is to ar
 
 I know right! As a musician myself I realized that the flyers, photos, video, and messages from the various shows I've played over the last 10 years are scattered accross blogs, facebook, tumblr, youTube, instagram, and who knows where else some really cool stuff is hiding. That, and flyers so the fucking coolest!. 
 
-# So, how to I get lo-fly?
+# So, how do I get lo-fly?
 
 Well, it doesn't exist yet. I know, but since you are reading this on gitHub theres a pretty good chance your a programmer, coder, developer, or hacker, so... Help me build a thing?
 
