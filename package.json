@@ -1,0 +1,40 @@
+{
+  "name": "lo-fly",
+  "version": "1.0.0",
+  "description": "A social media web-application for archiving flyers for live performances and the media from said events",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "7.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaVashti/lo-fly.git"
+  },
+  "author": "DiV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DianaVashti/lo-fly/issues"
+  },
+  "homepage": "https://github.com/DianaVashti/lo-fly#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "body-parser": "^1.18.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
+    "knex": "^0.13.0",
+    "nodemon": "^1.12.1",
+    "react": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.6.0"
+  }
+}
